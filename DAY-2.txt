@@ -1,0 +1,5 @@
+1.Difference between Document and Window object?
+	
+	Window Object-> window is a global object in javascript onbject. ex:browser
+	Documenet Object-> Document is a object inside the windoe Object ,we can use a document object for manipulate  inside the document.
+	
